@@ -126,5 +126,10 @@ Edit an existing video by updating its title, description, and url.
 Endpoint: DELETE /videos/:id
 Delete a video by ID.
 
+## contributors
+- Luqman Bashir
+- Hamdi Aden
+- Faith Njau
+
 ## License
 [MIT LICENSE](https://github.com/luqman-bashir/video-app/blob/master/LICENSE.MD)
